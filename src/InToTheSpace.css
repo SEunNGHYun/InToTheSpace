@@ -1,0 +1,9 @@
+.search-input{
+    width: 60%;
+}
+
+.first-search-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
