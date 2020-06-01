@@ -1,9 +1,14 @@
 .search-input{
-    width: 60%;
+    width: 80vh;
 }
 
 .first-search-page {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: space-between;
+}
+
+.carousel_Buttons {
+    margin-left : 5vh; 
+    margin-right : 5vh; 
 }
